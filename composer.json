@@ -2,6 +2,9 @@
     "name": "leafo/scssphp-compass",
     "description": "Compass for scssphp",
     "homepage": "http://leafo.net/scssphp/",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/YunjieZhang/scssphp-compass" }
+    ],
     "require": {
         "leafo/scssphp": "dev-master"
     },
